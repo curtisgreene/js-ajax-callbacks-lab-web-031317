@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 0,
+    "passes": 0,
+    "pending": 0,
+    "failures": 1,
+    "start": "2017-05-01T18:40:49.937Z",
+    "end": "2017-05-01T18:40:52.893Z",
+    "duration": 2956
+  },
+  "tests": [],
+  "pending": [],
+  "failures": [
+    {
+      "title": "\"before all\" hook",
+      "fullTitle": "index.js \"before all\" hook",
+      "duration": 2933,
+      "currentRetry": 0,
+      "err": {
+        "stack": "Error: timeout of 2000ms exceeded. Ensure the done() callback is being called in this test.",
+        "message": "timeout of 2000ms exceeded. Ensure the done() callback is being called in this test."
+      }
+    }
+  ],
+  "passes": []
+}
